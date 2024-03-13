@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codekraken21
+- 👋 Hi, I’m @jameshorton2337
 - 👀 I’m interested in dsa, leetcode, and algorithms. Sometimes math.
 - 🌱 I’m currently learning anything that I can get my hands on.
 - 💞️ I’m looking to collaborate on cloud native projects are particular
