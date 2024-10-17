@@ -11,5 +11,5 @@ I'm Hortison, also known as the 'Commit Wizard' in certain coding circles. 🧙�
 💼 Professional inquiries or magical debates? Summon me by creating an issue on this repo.
 🎩 Fun fact: I think the suggestionn to use pronouns to identify yourself nuts.
 
-Connect with me for a spellbinding journey through the realms of technology!
+Why do most of us ignore the chance? Connect with me for a spellbinding journey through the realms of technology!
 
